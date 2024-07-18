@@ -1,4 +1,4 @@
-# Azure-Honeynet-SOC-Project
+## Azure-Honeynet-SOC-Project
 Complete SOC and Honeynet Deployment from in Microsoft Azure to simulate real-world Cyber Attacks.
 
 ## Introduction
