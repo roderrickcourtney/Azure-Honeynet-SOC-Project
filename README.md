@@ -1,6 +1,6 @@
 # Azure-Honeynet-SOC-Project
 Complete SOC and Honeynet Deployment from in Microsoft Azure to simulate real-world Cyber Attacks.
-![Cloud Honeynet / SOC](<blockquote class="imgur-embed-pub" lang="en" data-id="a/m0VvdMt" data-context="false" ><a href="//imgur.com/a/m0VvdMt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Image Alt](https://i.imgur.com/ZWxe03e.jpg)
 ## Introduction
 In this project, a mini honeynet was constructed within the Azure platform. The objective was to capture and analyze logs from several sources, subsequently consolidated within a Log Analytics workspace. Microsoft Sentinel was deployed to leverage these logs by developing attack maps, creating alert triggers, and incident generation. Azure Sentinel measured the metrics of an insecure environment over a 24-hour period. Following this phase, security controls were implemented to fortify the virtual environment. Lastly, another 24-hour metric measurement phase was conducted and the results obtained from these endeavors are presented below. The metrics analyzed were:
 
