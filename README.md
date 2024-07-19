@@ -29,6 +29,6 @@ The central aim of this project was to create intentionally vulnerable virtual m
 - [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guidance
 
 ## High-Level Deployment and Configuration Steps
-## PHASE I - Creating the Honeynet
+### PHASE I - Creating the Honeynet
 First, I had to create: an Azure Subscription> Resource Group > A total of three Virtual Machines: 1 victim Windows VM, 1 attacker Windows VM, and 1 victim Linux VM all in MS Azure.
 <img src="https://i.imgur.com/aSpzKQp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
