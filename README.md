@@ -31,4 +31,4 @@ The central aim of this project was to create intentionally vulnerable virtual m
 <h2>High-Level Deployment and Configuration Steps</h2>
 ## PHASE I - Creating the Honeynet
 First, I had to create: an Azure Subscription> Resource Group > A total of three Virtual Machines: 1 victim Windows VM, 1 attacker Windows VM, and 1 victim Linux VM all in MS Azure.
-![Image Alt](<a href="https://imgur.com/aSpzKQp"><img src="https://i.imgur.com/aSpzKQp.png" title="source: imgur.com" /></a>)
+<img src="<a href="https://imgur.com/aSpzKQp"><img src="https://i.imgur.com/aSpzKQp.png" title="source: imgur.com" /></a>" height="90%" width="90%" alt="Disk Sanitization Steps"/>
